@@ -1,0 +1,45 @@
+form {
+    width: 1200px;
+    display: inline-block;
+}
+
+.container {
+    margin: 15px auto;
+}
+
+.labelContainer {
+    width: 150px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.inputContainer {
+    width: 600px;
+    display: inline-block;
+}
+
+.buttonContainer {
+    text-align: right;
+    margin: 30px;
+}
+
+#button {
+    font-size: medium;
+    padding: 5px 10px;
+}
+
+#numero {
+    border: none;
+}
+
+.imageContainer {
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    margin-top: 30px;
+}
+.kkContainer{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+}
